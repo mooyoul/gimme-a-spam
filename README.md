@@ -1,5 +1,8 @@
 # gimme-a-spam
- Node.js로 작성한 [스티비 스팸월드컵](http://recruit.stibee.com/) 예선문제 답안
+[![Dependency Status](https://david-dm.org/mooyoul/gimme-a-spam.svg)](https://david-dm.org/mooyoul/gimme-a-spam) [![Known Vulnerabilities](https://snyk.io/test/github/mooyoul/gimme-a-spam/badge.svg)](https://snyk.io/test/github/mooyoul/gimme-a-spam) [![license](https://img.shields.io/github/license/mooyoul/gimme-a-spam.svg?maxAge=2592000)](LICENSE)
+
+
+Node.js로 작성한 [스티비 스팸월드컵](http://recruit.stibee.com/) 예선문제 답안
 
 
 ## Requirements
