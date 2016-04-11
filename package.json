@@ -1,0 +1,31 @@
+{
+  "name": "gimme-a-spam",
+  "version": "1.0.0",
+  "description": "Stibee Spam Worldcup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooyoul/gimme-a-spam.git"
+  },
+  "keywords": [
+    "stibee",
+    "spam",
+    "email",
+    "spammail",
+    "gmail"
+  ],
+  "author": "MooYeol Prescott Lee <mooyoul@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mooyoul/gimme-a-spam/issues"
+  },
+  "homepage": "https://github.com/mooyoul/gimme-a-spam#readme",
+  "dependencies": {
+    "gapitoken": "^0.1.5",
+    "mandrill-api": "^1.0.45",
+    "request": "^2.70.0"
+  }
+}
